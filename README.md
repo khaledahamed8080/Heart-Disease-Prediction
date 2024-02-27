@@ -13,4 +13,4 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 3.Decision Tree (Scikit-learn)
 4.Random Forest (Scikit-learn)
 
-Dataset used: kaggle/input/heart-attack-analysis-prediction-dataset/heart.csv
+Dataset used: [kaggle/input/heart-attack-analysis-prediction-dataset/heart.csv](https://www.kaggle.com/code/imtkaggleteam/heart-disease-prediction-ensemble/input)https://www.kaggle.com/code/imtkaggleteam/heart-disease-prediction-ensemble/input
