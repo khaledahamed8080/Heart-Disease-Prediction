@@ -9,8 +9,19 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 -> Machine Learning algorithms used:
 
 1.Support Vector Machine (Linear) (Scikit-learn)
+
+
+
+
 2.K-Nearest Neighbours (Scikit-learn)
+
+
+
+
 3.Decision Tree (Scikit-learn)
+
+
+
 4.Random Forest (Scikit-learn)
 
 Dataset used: [kaggle/input/heart-attack-analysis-prediction-dataset/heart.csv](https://www.kaggle.com/code/imtkaggleteam/heart-disease-prediction-ensemble/input)https://www.kaggle.com/code/imtkaggleteam/heart-disease-prediction-ensemble/input
