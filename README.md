@@ -1,4 +1,4 @@
-<h1>Heart-Disease-Prediction</h1>
+<h1>1.Heart-Disease-Prediction</h1>
 Classification of heart disease 
 
 Thus preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
